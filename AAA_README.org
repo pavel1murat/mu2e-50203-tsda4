@@ -1,0 +1,4 @@
+#+startup:fold
+
+
+* directory: file:./
